@@ -1,11 +1,11 @@
 
-full_name: "Svetlana Mikhalyova"
-age: "24 years"
+full_name: Svetlana Mikhalyova
+age: "24"
 phone_number: "+375295846440"
-education: "BSU"
+education: BSU
 have_a_job: "yes, ruin-bar"
-english: "Pre-Intermediate"
-programming_languages: "Unfortunately I do not know yet"
-goal: "i want to be cool"
-laptop: "yes, windows"
-hours_per_day: "9 hours"
+english: Pre-Intermediate
+programming_languages: Unfortunately I do not know yet
+goal: i want to be cool
+laptop: "yes"
+hours_per_day: 9 hours
